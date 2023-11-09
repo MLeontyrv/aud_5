@@ -1,4 +1,4 @@
-package ru.mirea.leontyevme.task2;
+package ru.mirea.leontyevme.theme2.task2;
 
 public class Bar {
     private Bartender bartender;

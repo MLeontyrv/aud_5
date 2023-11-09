@@ -1,4 +1,4 @@
-package ru.mirea.leontyevme.task1;
+package ru.mirea.leontyevme.theme2.task1;
 
 public class Cat extends Animal {
     private String color;

@@ -1,4 +1,4 @@
-package ru.mirea.leontyevme.task3;
+package ru.mirea.leontyevme.theme2.task3;
 
 public class Creature extends GameObject{
 
