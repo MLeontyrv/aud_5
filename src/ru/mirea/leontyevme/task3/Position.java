@@ -5,7 +5,7 @@ public class Position {
     private int y;
     public Position(int x, int y){
         this.x = x;
-        this.y =y;
+        this.y = y;
     }
     public int X() {
         return x;
@@ -13,10 +13,6 @@ public class Position {
     public int Y() {
         return y;
     }
-    public void setX(int x) {
-        this.x = x;
-    }
-    public void setY(int y) {
-        this.y = y;
-    }
+    public void setX(int x) {}
+    public void setY(int y) {}
 }

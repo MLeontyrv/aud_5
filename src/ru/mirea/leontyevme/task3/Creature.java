@@ -12,4 +12,6 @@ public class Creature extends GameObject{
     public int getHp() {
         return hp;
     }
+    public void move(Position position){}
+
 }
