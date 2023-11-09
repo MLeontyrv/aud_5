@@ -1,7 +1,6 @@
 package ru.mirea.leontyevme.theme2.task3;
 
-public class Creature extends GameObject{
-
+public class Creature extends GameObject implements Movable{
     private int hp;
 
     public Creature(int id, String name, Position position, int hp) {
